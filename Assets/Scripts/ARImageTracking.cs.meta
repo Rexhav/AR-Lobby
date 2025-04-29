@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9f633b427673744909e47d7c118a1487
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tMP_Text: {instanceID: 0}
+  - m_TrackedImageManager: {instanceID: 0}
+  - cube: {fileID: 1956136375851031894, guid: 2def57fbe579617419aed2e1e9d4123c, type: 3}
+  - sphere: {fileID: 1318292495231735508, guid: 9463191c701cdc64bbe7e715a8ddc1e3, type: 3}
+  - cylinder: {fileID: 993357522008157036, guid: bd63495b3e384d24c92de794d14acd71, type: 3}
+  - capsule: {fileID: 8796457014096580608, guid: 82d17a54935d7024bbfbe25967a8f74d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
